@@ -1,19 +1,14 @@
 {
-  "name": "Meshtastic",
-  "short_name": "Meshtastic",
+  "name": "Meshtastic Users Norway",
+  "short_name": "MT Users Norway",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
-    },
-    {
-      "src": "/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
     }
   ],
-  "theme_color": "#67ea94",
-  "background_color": "#67ea94",
+  "theme_color": "#2c2d3c",
+  "background_color": "#2c2d3c",
   "display": "standalone"
 }
